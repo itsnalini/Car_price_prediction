@@ -71,12 +71,13 @@ R-squared: In this case, we can also see that there is a big difference between 
    
 MSE: We can see that Polynomial Fit brought down the MSE, since this MSE is smaller than the one from the SLR.
 R-squared: The R-squared for the Polynomial Fit is larger than the R-squared for the SLR, so the Polynomial Fit also brought up the R-squared quite a bit.
-Multiple Linear Regression (MLR) vs. Polynomial Fit:
+
+6. Multiple Linear Regression (MLR) vs. Polynomial Fit:
 
 MSE: The MSE for the MLR is smaller than the MSE for the Polynomial Fit.
 R-squared: The R-squared for the MLR is also much larger than for the Polynomial Fit.
 
-6. Comparing three models:
+7. Comparing three models:
 	In conclusion, the MLR model is the best model to be able to predict price from our dataset. This result makes sense since we have 27 variables in total and we know that more than one of those variables are potential predictors of the final car price. 
 
 
