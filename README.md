@@ -68,6 +68,7 @@ MSE: The MSE of SLR is  3.16x10^7  while MLR has an MSE of 1.2 x10^7.  The MSE o
 R-squared: In this case, we can also see that there is a big difference between the R-squared of the SLR and the R-squared of the MLR. The R-squared for the SLR (~0.497) is very small compared to the R-squared for the MLR (~0.809).
 
 5. Simple Linear Model (SLR) vs. Polynomial Fit:
+   
 MSE: We can see that Polynomial Fit brought down the MSE, since this MSE is smaller than the one from the SLR.
 R-squared: The R-squared for the Polynomial Fit is larger than the R-squared for the SLR, so the Polynomial Fit also brought up the R-squared quite a bit.
 Multiple Linear Regression (MLR) vs. Polynomial Fit:
